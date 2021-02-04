@@ -1,0 +1,7 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  dogsitter_name: MyString
+
+two:
+  dogsitter_name: MyString
